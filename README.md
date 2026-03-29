@@ -1,53 +1,53 @@
 🚀 About This Repository
 
 This repository documents my structured journey of mastering Pandas and progressively advancing toward Data Science.
-It contains daily hands-on exercises, mini-projects, and analytical explorations focused on real-world datasets.
+It contains daily hands-on exercises, mini-projects, and analytical explorations focused on real-world datasets.<br>
 
-The goal is not just to learn syntax, but to develop strong data intuition, analytical thinking, and statistical reasoning.
+The goal is not just to learn syntax, but to develop strong data intuition, analytical thinking, and statistical reasoning.<br>
 
-🎯 Objectives
+🎯 Objectives<br>
 
-Master data manipulation and analysis using Pandas
+Master data manipulation and analysis using Pandas<br>
 
-Strengthen statistical foundations for data-driven decisions
+Strengthen statistical foundations for data-driven decisions<br>
 
-Perform real-world Exploratory Data Analysis (EDA)
+Perform real-world Exploratory Data Analysis (EDA)<br>
 
-Prepare for advanced topics like Machine Learning & Data Science projects
+Prepare for advanced topics like Machine Learning & Data Science projects<br>
 
-🧩 Phase 1: Pandas Foundations (Completed ✅)
-Day	Topic
-Day 1	Dataset loading & inspection
-Day 2	Data cleaning & missing values
-Day 3	Selecting & filtering data
-Day 4	Grouping & aggregation
-Day 5	Visualization with Pandas
+🧩 Phase 1: Pandas Foundations (Completed ✅)<br>
+Day	Topic<br>
+Day 1	Dataset loading & inspection<br>
+Day 2	Data cleaning & missing values<br>
+Day 3	Selecting & filtering data<br>
+Day 4	Grouping & aggregation<br>
+Day 5	Visualization with Pandas<br>
 
-📌 Outcome: Built strong fundamentals in handling and analyzing structured datasets.
+📌 Outcome: Built strong fundamentals in handling and analyzing structured datasets.<br>
 
-🔥 Phase 2: Leveling Up (Current Focus)
-📈 Statistics for Data Science
+🔥 Phase 2: Leveling Up (Current Focus)<br>
+📈 Statistics for Data Science<br>
 
-Descriptive Statistics
+Descriptive Statistics<br>
 
-Probability Basics
+Probability Basics<br>
 
-Hypothesis Testing (Z-test, T-test, Chi-Square)
+Hypothesis Testing (Z-test, T-test, Chi-Square)<br>
 
-🔍 Exploratory Data Analysis (EDA)
+🔍 Exploratory Data Analysis (EDA)<br>
 
-Correlation analysis
+Correlation analysis<br>
 
-Outlier detection
+Outlier detection<br>
 
-Feature relationships
+Feature relationships<br>
 
-Insight-driven visualizations
+Insight-driven visualizations<br>
 
-🛠 Feature Engineering
+🛠 Feature Engineering<br>
 
-Encoding categorical variables
+Encoding categorical variables<br>
 
-Data scaling & normalization
+Data scaling & normalization<br>
 
-Creating meaningful derived features
+Creating meaningful derived features<br>
